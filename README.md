@@ -1,11 +1,17 @@
-# Brother Cert
+# Brother Cert MFC-L2710DW
 
-Brother Cert is a command line tool to automatically install an ssl certificate on a brother printer.
+Brother Cert is a command line tool to automatically install an ssl certificate on a Brother 
+MFC-L2710DW printer.
 
 ## Compatibility Notice
 
-The tool was built specifically for the Brother MFC-L2710DW, and MFC-L2750DW printers. It 
-seems reasonable other Brother printers probably use the same mechanisms but your mileage may vary.
+**PRs and Issues for anything other than bug fixes, will likely be ignored.**
+
+This tool is not actively updated for additional printer models and should be forked and modified if you're
+trying to use it for a different model. Requests for additional support will likely be ignored.
+
+The tool was built specifically for the Brother MFC-L2710DW printer. It 
+seems reasonable other Brother printers probably use similar mechanisms but your mileage may vary.
 
 It may be easiest to manually perform the initial configuration of SSL on the printer before attempting
 to use this tool for subsequent updates. However, this is not required. The only required manual step
