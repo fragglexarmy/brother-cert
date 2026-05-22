@@ -1,5 +1,10 @@
 # Brother Cert Changelog
 
+## [v0.3.1] - 2026-05-21
+
+Dependency and build process updates.
+
+
 ## [v0.3.0] - 2025-09-09
 
 Many items were changed or overhauled in this version. Possibly the
